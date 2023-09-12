@@ -68,3 +68,17 @@ Utilizing advanced visualization techniques, we analyzed the effects of various 
 - *Initial Vision vs Final Implementation:* Introduced animation views of multiple attributes.
 - *Challenges & Learnings:* Ram limitations, importance of iso-surface visualization, and attribute pairing.
 - *Future Considerations:* Focusing on full-resolution data and enhancing visual representations.
+
+## *Contact*
+
+To learn more about this project and others:
+
+- [*Portfolio*](https://aasthakpatel.netlify.app/)
+- [*LinkedIn*](https://www.linkedin.com/in/aasthaketanp/)
+- [*GitHub*](https://github.com/aasthaketanp)
+- [*My Resume*](https://aasthakpatel.netlify.app/images/AasthaPatelResume2024.pdf)
+
+---
+*Acknowledgments:*  
+Our heartfelt gratitude to every contributor and supporter of this project. Your invaluable insights and assistance have been pivotal in refining and elevating our system.
+
