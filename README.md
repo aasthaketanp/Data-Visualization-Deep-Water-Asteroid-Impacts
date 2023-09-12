@@ -31,7 +31,7 @@ Our study divides the dataset into three parts based on the asteroid's diameter,
 
 - *Series 11:* Diameter of 100m, 45 degrees' momentum, with variations in airbursts.
 - *Series 31:* Diameter of 250m, with variations in momentum angles and airbursts.
-- [More about Dataset](https://oceans11.lanl.gov/deepwaterimpact/)
+- [*More about Dataset*](https://oceans11.lanl.gov/deepwaterimpact/)
 
 ---
 
