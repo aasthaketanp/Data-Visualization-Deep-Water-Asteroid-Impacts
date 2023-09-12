@@ -46,7 +46,7 @@ Utilizing advanced visualization techniques, we analyzed the effects of various 
 - Asteroids with a diameter of 100m, regardless of airburst elevation, didn't generate significant water waves.
 - 250m diameter asteroids, especially those with a 60-degree momentum, caused more water displacement.
 - Airbursts, depending on elevation, can drastically reduce the impact effect on water.
-- [*Surprising Findings on yA11*](https://youtu.be/t9Mg24F1_So))
+- [*Surprising Findings on yA11*](https://youtu.be/t9Mg24F1_So)
 
 ---
 
